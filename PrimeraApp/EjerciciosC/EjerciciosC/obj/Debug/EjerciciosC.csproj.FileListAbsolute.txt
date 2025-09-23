@@ -1,0 +1,8 @@
+C:\Users\alumno\source\repos\PrimeraApp\EjerciciosC\EjerciciosC\bin\Debug\EjerciciosC.exe.config
+C:\Users\alumno\source\repos\PrimeraApp\EjerciciosC\EjerciciosC\bin\Debug\EjerciciosC.exe
+C:\Users\alumno\source\repos\PrimeraApp\EjerciciosC\EjerciciosC\bin\Debug\EjerciciosC.pdb
+C:\Users\alumno\source\repos\PrimeraApp\EjerciciosC\EjerciciosC\obj\Debug\EjerciciosC.csproj.AssemblyReference.cache
+C:\Users\alumno\source\repos\PrimeraApp\EjerciciosC\EjerciciosC\obj\Debug\EjerciciosC.csproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\PrimeraApp\EjerciciosC\EjerciciosC\obj\Debug\EjerciciosC.exe
+C:\Users\alumno\source\repos\PrimeraApp\EjerciciosC\EjerciciosC\obj\Debug\EjerciciosC.pdb
+C:\Users\alumno\source\repos\PrimeraApp\EjerciciosC\EjerciciosC\obj\Debug\EjerciciosC.exe.config
