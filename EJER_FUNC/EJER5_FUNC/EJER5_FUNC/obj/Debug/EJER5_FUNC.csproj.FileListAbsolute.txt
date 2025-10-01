@@ -1,0 +1,8 @@
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_FUNC\EJER5_FUNC\EJER5_FUNC\bin\Debug\EJER5_FUNC.exe.config
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_FUNC\EJER5_FUNC\EJER5_FUNC\bin\Debug\EJER5_FUNC.exe
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_FUNC\EJER5_FUNC\EJER5_FUNC\bin\Debug\EJER5_FUNC.pdb
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_FUNC\EJER5_FUNC\EJER5_FUNC\obj\Debug\EJER5_FUNC.csproj.AssemblyReference.cache
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_FUNC\EJER5_FUNC\EJER5_FUNC\obj\Debug\EJER5_FUNC.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_FUNC\EJER5_FUNC\EJER5_FUNC\obj\Debug\EJER5_FUNC.exe
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_FUNC\EJER5_FUNC\EJER5_FUNC\obj\Debug\EJER5_FUNC.pdb
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_FUNC\EJER5_FUNC\EJER5_FUNC\obj\Debug\EJER5_FUNC.exe.config

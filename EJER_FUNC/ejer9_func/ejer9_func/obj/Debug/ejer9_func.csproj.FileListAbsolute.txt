@@ -1,0 +1,8 @@
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_FUNC\ejer9_func\ejer9_func\obj\Debug\ejer9_func.csproj.AssemblyReference.cache
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_FUNC\ejer9_func\ejer9_func\obj\Debug\ejer9_func.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_FUNC\ejer9_func\ejer9_func\bin\Debug\ejer9_func.exe.config
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_FUNC\ejer9_func\ejer9_func\bin\Debug\ejer9_func.exe
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_FUNC\ejer9_func\ejer9_func\bin\Debug\ejer9_func.pdb
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_FUNC\ejer9_func\ejer9_func\obj\Debug\ejer9_func.exe
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_FUNC\ejer9_func\ejer9_func\obj\Debug\ejer9_func.pdb
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_FUNC\ejer9_func\ejer9_func\obj\Debug\ejer9_func.exe.config

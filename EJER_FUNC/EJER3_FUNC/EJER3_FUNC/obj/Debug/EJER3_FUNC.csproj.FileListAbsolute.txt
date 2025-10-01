@@ -1,0 +1,7 @@
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_FUNC\EJER3_FUNC\EJER3_FUNC\bin\Debug\EJER3_FUNC.exe.config
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_FUNC\EJER3_FUNC\EJER3_FUNC\bin\Debug\EJER3_FUNC.exe
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_FUNC\EJER3_FUNC\EJER3_FUNC\bin\Debug\EJER3_FUNC.pdb
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_FUNC\EJER3_FUNC\EJER3_FUNC\obj\Debug\EJER3_FUNC.csproj.AssemblyReference.cache
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_FUNC\EJER3_FUNC\EJER3_FUNC\obj\Debug\EJER3_FUNC.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_FUNC\EJER3_FUNC\EJER3_FUNC\obj\Debug\EJER3_FUNC.exe
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_FUNC\EJER3_FUNC\EJER3_FUNC\obj\Debug\EJER3_FUNC.pdb
