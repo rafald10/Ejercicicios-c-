@@ -1,0 +1,33 @@
+﻿<Window x:Class="EJER4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EJER4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox 
+            Name="txtParrafos"
+            AcceptsReturn="True"
+            TextWrapping="Wrap"
+            VerticalScrollBarVisibility="Auto"
+            SpellCheck.IsEnabled="True"
+            xml:lang="es-ES"
+            FontSize="14"
+            Padding="8"
+            VerticalAlignment="Stretch"
+            HorizontalAlignment="Stretch"
+            >
+            Este es el primer párrafo. Comprueba que al escribir mucho texto,
+            el contenido no se corta: debe saltar automáticamente a la siguiente
+            línea y seguir dentro del TextBox.
+
+            Segundo párrafo: aquí hay varias frases para ver cómo se manejan saltos
+            de línea y párrafos separados por una línea en blanco.
+
+            Tercer párrafo: prueba palabras mal escritas como "escrivir" o "ortografía"
+            para ver si el corrector en castellano sugiere correcciones.
+        </TextBox>
+    </Grid>
+</Window>

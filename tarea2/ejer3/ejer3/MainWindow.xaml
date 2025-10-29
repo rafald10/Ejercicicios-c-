@@ -1,0 +1,14 @@
+﻿<Window x:Class="ejer3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ejer3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock Margin="30">Esto es <Span Foreground="BlanchedAlmond" TextDecorations="Strikethrough">un texto con diferentes formatos</Span><LineBreak/>
+        <Span Background="Beige">y veremos como este texto aparece de diferentes<LineBreak/>
+        </Span><Span FontStyle="Normal" Foreground="Aqua">formas y estilos</Span></TextBlock>
+    </Grid>
+</Window>

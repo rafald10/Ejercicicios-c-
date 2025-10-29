@@ -1,0 +1,35 @@
+﻿<Window x:Class="EJER5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EJER5"
+        mc:Ignorable="d"
+        Title="Ejercicio 5" Height="300" Width="500">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <!-- TextBox principal donde se escribe -->
+        <TextBox Name="txtPrincipal"
+                 Grid.Row="0"
+                 AcceptsReturn="True"
+                 TextWrapping="Wrap"
+                 VerticalScrollBarVisibility="Auto"
+                 FontSize="14"
+                 SelectionChanged="txtPrincipal_SelectionChanged"
+                 />
+
+        <!-- TextBox informativo (solo lectura) -->
+        <TextBox Name="txtSeleccion"
+                 Grid.Row="1"
+                 IsReadOnly="True"
+                 Margin="0,10,0,0"
+                 FontWeight="Bold"
+                 FontSize="14"
+                 Text="Selecciona texto arriba para verlo aquí" />
+    </Grid>
+</Window>

@@ -1,0 +1,8 @@
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_CLASES\EJER2_CLASES\EJER2_CLASES\bin\Debug\EJER2_CLASES.exe.config
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_CLASES\EJER2_CLASES\EJER2_CLASES\bin\Debug\EJER2_CLASES.exe
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_CLASES\EJER2_CLASES\EJER2_CLASES\bin\Debug\EJER2_CLASES.pdb
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_CLASES\EJER2_CLASES\EJER2_CLASES\obj\Debug\EJER2_CLASES.csproj.AssemblyReference.cache
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_CLASES\EJER2_CLASES\EJER2_CLASES\obj\Debug\EJER2_CLASES.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_CLASES\EJER2_CLASES\EJER2_CLASES\obj\Debug\EJER2_CLASES.exe
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_CLASES\EJER2_CLASES\EJER2_CLASES\obj\Debug\EJER2_CLASES.pdb
+C:\Users\alumno\Desktop\Ejercicicios-c-\EJER_CLASES\EJER2_CLASES\EJER2_CLASES\obj\Debug\EJER2_CLASES.exe.config
