@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alumno\\Desktop\\Ejercicicios-c-\\Practica5\\ej3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C19E5F-1BA7-4CAF-B853-F9AC89A9256B}|ej3\\ej3.csproj|c:\\users\\alumno\\desktop\\ejercicicios-c-\\practica5\\ej3\\ej3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C5C19E5F-1BA7-4CAF-B853-F9AC89A9256B}|ej3\\ej3.csproj|solutionrelative:ej3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C19E5F-1BA7-4CAF-B853-F9AC89A9256B}|ej3\\ej3.csproj|c:\\users\\alumno\\desktop\\ejercicicios-c-\\practica5\\ej3\\ej3\\ej3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5C19E5F-1BA7-4CAF-B853-F9AC89A9256B}|ej3\\ej3.csproj|solutionrelative:ej3\\ej3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C19E5F-1BA7-4CAF-B853-F9AC89A9256B}|ej3\\ej3.csproj|c:\\users\\alumno\\desktop\\ejercicicios-c-\\practica5\\ej3\\ej3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C19E5F-1BA7-4CAF-B853-F9AC89A9256B}|ej3\\ej3.csproj|solutionrelative:ej3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ej3",
+              "DocumentMoniker": "C:\\Users\\alumno\\Desktop\\Ejercicicios-c-\\Practica5\\ej3\\ej3\\ej3.csproj",
+              "RelativeDocumentMoniker": "ej3\\ej3.csproj",
+              "ToolTip": "C:\\Users\\alumno\\Desktop\\Ejercicicios-c-\\Practica5\\ej3\\ej3\\ej3.csproj",
+              "RelativeToolTip": "ej3\\ej3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-29T13:27:04.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\Desktop\\Ejercicicios-c-\\Practica5\\ej3\\ej3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ej3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\alumno\\Desktop\\Ejercicicios-c-\\Practica5\\ej3\\ej3\\MainWindow.xaml",
+              "RelativeToolTip": "ej3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-29T13:13:31.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Desktop\\Ejercicicios-c-\\Practica5\\ej3\\ej3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ej3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alumno\\Desktop\\Ejercicicios-c-\\Practica5\\ej3\\ej3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ej3\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T13:13:31.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
